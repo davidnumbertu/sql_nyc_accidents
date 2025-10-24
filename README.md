@@ -11,14 +11,14 @@ sql_nyc_accidents/
 │   ├── SQL_Project_Raw.xlsx
 │
 ├── scripts/
-│   └── annotated-team_4_mvc_backup.sql
+│   ├── annotated-team_4_mvc_backup.sql
 │   └── annotated-mvc_team_four.txt
 │
 ├── model/
-|   └── team_4_mvc_logical.mwb
+|   ├── team_4_mvc_logical.mwb
 |
 ├── report/
-|   └── annotated-team_4_mvc_report.docx.pdf
+|   ├── annotated-team_4_mvc_report.docx.pdf
 │
 └── README.md
 
