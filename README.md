@@ -1,8 +1,8 @@
-# sql_nyc_accidents
+# NYC_Accidents_Datalog
 New York City collisions report and datalog from 2005-2023.
 
 ## Overview
-This is the capstone project of INST490, the final course of the Information Science Major at the University of Maryland. As part of one of five teams that mirror a real consulting company, my work showcases data analysis techniques including usage of Microsoft Excel, Pivot Tables, Tableau, and methods of Data Calibration and Validation in regards to Crimes of Hate Bias in the state of Maryland.
+This is my final project of INST327, a course at the University of Maryland covering SQL and database modeling. Working with a team of five people, our tasks include normalization of the dataset, importing the dataset into MySQL server, writing queries to fetch key data, and using written queries to answer questions in regard to collisions and the nature of reporting
 
 ## Data Sources
 - All data was taken from the Maryland Coordination and Analysis Center (https://mcac.maryland.gov/resources/) (PDFs manually converted to CSV)
